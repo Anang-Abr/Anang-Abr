@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
+I am an informatics engineer student. Currently dig deep into backend development. 
 <!--
 **Anang-Abr/Anang-Abr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
